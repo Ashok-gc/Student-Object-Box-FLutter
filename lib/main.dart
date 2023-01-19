@@ -1,5 +1,5 @@
-import 'package:batch_student_objbox_api/app/app.dart';
-import 'package:batch_student_objbox_api/state/objectbox_state.dart';
+import 'package:student_objectbox/app/app.dart';
+import 'package:student_objectbox/state/objectbox_state.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 

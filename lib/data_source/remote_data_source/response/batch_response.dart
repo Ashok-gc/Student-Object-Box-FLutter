@@ -1,4 +1,4 @@
-import 'package:batch_student_objbox_api/model/batch.dart';
+import 'package:student_objectbox/model/batch.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 part 'batch_response.g.dart';

@@ -1,5 +1,5 @@
-import 'package:batch_student_objbox_api/model/batch.dart';
-import 'package:batch_student_objbox_api/model/course.dart';
+import 'package:student_objectbox/model/batch.dart';
+import 'package:student_objectbox/model/course.dart';
 import 'package:json_annotation/json_annotation.dart';
 import 'package:objectbox/objectbox.dart';
 

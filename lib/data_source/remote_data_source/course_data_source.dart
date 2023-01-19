@@ -1,7 +1,7 @@
-import 'package:batch_student_objbox_api/app/constants.dart';
-import 'package:batch_student_objbox_api/data_source/remote_data_source/response/course_response.dart';
-import 'package:batch_student_objbox_api/helper/http_service.dart';
-import 'package:batch_student_objbox_api/model/course.dart';
+import 'package:student_objectbox/app/constants.dart';
+import 'package:student_objectbox/data_source/remote_data_source/response/course_response.dart';
+import 'package:student_objectbox/helper/http_service.dart';
+import 'package:student_objectbox/model/course.dart';
 import 'package:dio/dio.dart';
 
 class CourseRemoteDataSource {

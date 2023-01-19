@@ -1,6 +1,6 @@
-import 'package:batch_student_objbox_api/helper/objectbox.dart';
-import 'package:batch_student_objbox_api/model/batch.dart';
-import 'package:batch_student_objbox_api/model/student.dart';
+import 'package:student_objectbox/helper/objectbox.dart';
+import 'package:student_objectbox/model/batch.dart';
+import 'package:student_objectbox/model/student.dart';
 
 import '../../state/objectbox_state.dart';
 

@@ -1,4 +1,4 @@
-import 'package:batch_student_objbox_api/helper/objectbox.dart';
+import 'package:student_objectbox/helper/objectbox.dart';
 
 class ObjectBoxState {
   static ObjectBoxInstance? objectBoxInstance;

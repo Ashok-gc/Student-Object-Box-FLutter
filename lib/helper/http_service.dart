@@ -1,4 +1,4 @@
-import 'package:batch_student_objbox_api/app/constants.dart';
+import 'package:student_objectbox/app/constants.dart';
 import 'package:dio/dio.dart';
 import 'package:pretty_dio_logger/pretty_dio_logger.dart';
 

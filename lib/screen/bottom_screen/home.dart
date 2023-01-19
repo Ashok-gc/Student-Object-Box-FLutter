@@ -1,8 +1,8 @@
-import 'package:batch_student_objbox_api/repository/batch_repo.dart';
+import 'package:student_objectbox/repository/batch_repo.dart';
 import 'package:flutter/material.dart';
-import 'package:batch_student_objbox_api/repository/course_repository.dart';
-import 'package:batch_student_objbox_api/screen/batch_student.dart';
-import 'package:batch_student_objbox_api/screen/course_student.dart';
+import 'package:student_objectbox/repository/course_repository.dart';
+import 'package:student_objectbox/screen/batch_student.dart';
+import 'package:student_objectbox/screen/course_student.dart';
 
 import '../../app/theme.dart';
 

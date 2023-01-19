@@ -1,9 +1,9 @@
 import 'dart:io';
 
-import 'package:batch_student_objbox_api/app/constants.dart';
-import 'package:batch_student_objbox_api/data_source/remote_data_source/response/LoginResponse.dart';
-import 'package:batch_student_objbox_api/helper/http_service.dart';
-import 'package:batch_student_objbox_api/model/student.dart';
+import 'package:student_objectbox/app/constants.dart';
+import 'package:student_objectbox/data_source/remote_data_source/response/LoginResponse.dart';
+import 'package:student_objectbox/helper/http_service.dart';
+import 'package:student_objectbox/model/student.dart';
 import 'package:dio/dio.dart';
 import 'package:mime/mime.dart';
 import 'package:http_parser/http_parser.dart';

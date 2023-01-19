@@ -1,5 +1,5 @@
-import 'package:batch_student_objbox_api/app/routes.dart';
-import 'package:batch_student_objbox_api/app/theme.dart';
+import 'package:student_objectbox/app/routes.dart';
+import 'package:student_objectbox/app/theme.dart';
 import 'package:flutter/material.dart';
 
 import '../screen/splash_screen.dart';

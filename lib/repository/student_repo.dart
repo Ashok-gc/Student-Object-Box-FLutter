@@ -1,7 +1,7 @@
 import 'dart:io';
 
-import 'package:batch_student_objbox_api/data_source/local_data_source/student_data_source.dart';
-import 'package:batch_student_objbox_api/model/student.dart';
+import 'package:student_objectbox/data_source/local_data_source/student_data_source.dart';
+import 'package:student_objectbox/model/student.dart';
 
 import '../data_source/remote_data_source/student_data_source.dart';
 

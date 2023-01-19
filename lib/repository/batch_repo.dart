@@ -1,4 +1,4 @@
-import 'package:batch_student_objbox_api/data_source/remote_data_source/batch_data_source.dart';
+import 'package:student_objectbox/data_source/remote_data_source/batch_data_source.dart';
 
 import '../data_source/local_data_source/batch_data_source.dart';
 import '../model/batch.dart';

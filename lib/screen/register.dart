@@ -1,13 +1,13 @@
 import 'dart:io';
 
-import 'package:batch_student_objbox_api/app/snackbar.dart';
-import 'package:batch_student_objbox_api/app/user_permission.dart';
-import 'package:batch_student_objbox_api/repository/batch_repo.dart';
+import 'package:student_objectbox/app/snackbar.dart';
+import 'package:student_objectbox/app/user_permission.dart';
+import 'package:student_objectbox/repository/batch_repo.dart';
 import 'package:flutter/material.dart';
-import 'package:batch_student_objbox_api/model/course.dart';
-import 'package:batch_student_objbox_api/model/student.dart';
-import 'package:batch_student_objbox_api/repository/course_repository.dart';
-import 'package:batch_student_objbox_api/repository/student_repo.dart';
+import 'package:student_objectbox/model/course.dart';
+import 'package:student_objectbox/model/student.dart';
+import 'package:student_objectbox/repository/course_repository.dart';
+import 'package:student_objectbox/repository/student_repo.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:multi_select_flutter/multi_select_flutter.dart';

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:batch_student_objbox_api/repository/course_repository.dart';
+import 'package:student_objectbox/repository/course_repository.dart';
 
 class CourseStudentScreen extends StatefulWidget {
   const CourseStudentScreen({super.key});

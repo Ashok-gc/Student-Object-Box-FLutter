@@ -1,9 +1,9 @@
-import 'package:batch_student_objbox_api/screen/batch_student.dart';
-import 'package:batch_student_objbox_api/screen/course_student.dart';
-import 'package:batch_student_objbox_api/screen/dashboard.dart';
-import 'package:batch_student_objbox_api/screen/login.dart';
-import 'package:batch_student_objbox_api/screen/register.dart';
-import 'package:batch_student_objbox_api/screen/splash_screen.dart';
+import 'package:student_objectbox/screen/batch_student.dart';
+import 'package:student_objectbox/screen/course_student.dart';
+import 'package:student_objectbox/screen/dashboard.dart';
+import 'package:student_objectbox/screen/login.dart';
+import 'package:student_objectbox/screen/register.dart';
+import 'package:student_objectbox/screen/splash_screen.dart';
 import 'package:flutter/cupertino.dart';
 
 var getAppRoutes = <String, WidgetBuilder>{

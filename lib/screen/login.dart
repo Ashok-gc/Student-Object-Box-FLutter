@@ -1,8 +1,8 @@
-import 'package:batch_student_objbox_api/app/snackbar.dart';
+import 'package:student_objectbox/app/snackbar.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:batch_student_objbox_api/repository/student_repo.dart';
-import 'package:batch_student_objbox_api/screen/register.dart';
+import 'package:student_objectbox/repository/student_repo.dart';
+import 'package:student_objectbox/screen/register.dart';
 
 import 'dashboard.dart';
 

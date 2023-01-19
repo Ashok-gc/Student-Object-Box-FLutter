@@ -1,7 +1,7 @@
-import 'package:batch_student_objbox_api/helper/objectbox.dart';
-import 'package:batch_student_objbox_api/model/course.dart';
-import 'package:batch_student_objbox_api/model/student.dart';
-import 'package:batch_student_objbox_api/state/objectbox_state.dart';
+import 'package:student_objectbox/helper/objectbox.dart';
+import 'package:student_objectbox/model/course.dart';
+import 'package:student_objectbox/model/student.dart';
+import 'package:student_objectbox/state/objectbox_state.dart';
 
 class CourseDataSource {
   ObjectBoxInstance get objectBoxInstance => ObjectBoxState.objectBoxInstance!;

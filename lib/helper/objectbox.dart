@@ -1,7 +1,7 @@
 import 'dart:io';
 
-import 'package:batch_student_objbox_api/model/batch.dart';
-import 'package:batch_student_objbox_api/model/course.dart';
+import 'package:student_objectbox/model/batch.dart';
+import 'package:student_objectbox/model/course.dart';
 import 'package:path_provider/path_provider.dart';
 import '../model/student.dart';
 import '../objectbox.g.dart';
